@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Kaushal Tukadiya!
+<h1 align="center"> 👋 Hi, I'm Kaushal Tukadiya! </h1>
 
 🎓 I'm a **1st-year IT student** at **Birla Vishwakarma Mahavidyalaya (BVM)**, passionate about coding, problem-solving, and building real-world tech projects.  
 💻 I love exploring **C, Java, Python**, and Web Development, and I'm excited about contributing to **Open Source** and participating in **Hackathons** like Hacktoberfest!  
@@ -86,6 +86,13 @@
   <a href="https://www.instagram.com/kaushal_tukadiya_07" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.youtube.com/@kaushaltukadiya1398" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.facebook.com/kaushal.tukadiya" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+ <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
+
 </p>
 
 ---
