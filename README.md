@@ -1,15 +1,26 @@
+<div align=center>
+ 
+ # 💫 About Me. <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;
+ 
+ </div>
+ 
 <h1 align="center"> 👋 Hi, I'm Kaushal Tukadiya! </h1>
 
 🎓 I'm a **1st-year IT student** at **Birla Vishwakarma Mahavidyalaya (BVM)**, passionate about coding, problem-solving, and building real-world tech projects.  
-💻 I love exploring **C, Java, Python**, and Web Development, and I'm excited about contributing to **Open Source** and participating in **Hackathons** like Hacktoberfest!  
+💻 I love exploring **C++, Java, Python & Web Development**, and I'm excited about contributing to **Open Source** and participating in **Hackathons** like Hacktoberfest!  
 
 ---
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" style="margin: 0 0 10px 10px;">
 
 ### 🪄 Quick Facts
-- 🌱 Currently learning **C Programming**, **Java**, and **Data Structures**
-- 🧠 Interested in **Software Development**, **AI**, and **Cybersecurity**
+- 🌱 Currently learning **C Programming**, **Mern Stack**, **Java/JavaScript**, and **Data Structures**
+- 🧠 Interested in **Web Development**, **AI**, and **Cybersecurity**
 - 🎯 Goal: To become a **Full Stack Developer** and work on impactful projects
 - ⚡ Fun fact: I debug faster with music 🎧
+
+&nbsp;
+
+&nbsp;
 
 ---
 
